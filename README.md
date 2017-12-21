@@ -10,7 +10,7 @@
 
 1. 200m Walk or Jog
 2. [Arm Circles](https://www.youtube.com/watch?v=bP52FXTlzjA)
-3. [1 Minute of High Knees](https://www.youtube.com/watch?v=Xh8JEoYjYhg)
+3. [DROM](https://www.youtube.com/watch?v=yDZIlnziAlI)
 
 ### Workout
 
