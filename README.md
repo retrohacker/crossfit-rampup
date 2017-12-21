@@ -1,5 +1,9 @@
 # Crossfit Rampup
 
+## Preparation
+
+[Read the Level 1 trainers guide](http://library.crossfit.com/free/pdf/CFJ_English_Level1_TrainingGuide.pdf)
+
 ## Day 1
 
 ### Warm Up
@@ -36,6 +40,7 @@
 ## Day 11
 ## Day 12
 
-## Sources
+## Inpsiration
+
 * https://web.archive.org/web/20100215110048/http://www.cathletics.com:80/articles/downloads/onRampCurriculum.pdf
-* http://library.crossfit.com/free/pdf/CFJ_English_Level1_TrainingGuide.pdf
+* http://library.crossfit.com/free/pdf/07_05_OpenSource_Mulvaney.pdf
