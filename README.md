@@ -40,7 +40,9 @@
 ## Day 11
 ## Day 12
 
-## Inpsiration
+## Inpsiration for this repo
+
+These articles inspired me to document my personal ramp-up adventures:
 
 * https://web.archive.org/web/20100215110048/http://www.cathletics.com:80/articles/downloads/onRampCurriculum.pdf
 * http://library.crossfit.com/free/pdf/07_05_OpenSource_Mulvaney.pdf
